@@ -1,10 +1,8 @@
-# aprendizado-desenvolvimento-web
+# Desenvolvimento Web - Wiki de Estudos
 
-## [ Curso em vídeo - JavaScript](https://github.com/hugomota-dev/curso-em-video-javascript)
+## Índice
+- [Links Úteis](./links.md)
 
-## Links
-### Padrões de fundo CSS
-- [CSS3 Patterns Gallery](https://projects.verou.me/css3patterns/)
-
-### Sintaxe básica de gravação e formatação no GitHub (Markdown)
-- [GitHub Docs](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Cursos
+- [Curso em vídeo - JavaScript](https://github.com/hugomota-dev/curso-em-video-javascript)
+- [DIO - Ri Happy - Front-end do Zero #2](https://github.com/hugomota-dev/front-end-ri-happy-2-dio)
